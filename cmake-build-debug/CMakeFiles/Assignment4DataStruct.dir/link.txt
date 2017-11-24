@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Assignment4DataStruct.dir/main.cpp.o  -o Assignment4DataStruct.exe -Wl,--out-implib,libAssignment4DataStruct.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
